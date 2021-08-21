@@ -1,2 +1,5 @@
-# DQLab
-Tempat untuk menyimpan kode dan data dari hasil mengerjakan modul dan project di DQLab
+<br />
+
+<p align="center">
+  <a href='https://academy.dqlab.id/main/learn_more'><img src="Gambar/Logo DQLab.png"></a>
+</p>
