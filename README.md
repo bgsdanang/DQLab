@@ -8,7 +8,7 @@
 
 <details><summary>Daftar Modul</summary>
   
-  [[:books:](https://github.com/MyArist/DQLab/tree/master/Learn/R/Preliminary/Introduction%20to%20Data%20Science%20with%20R)]  [[:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABBGINRFBCMKR)] Introduction to Data Science with R
+ + Introduction to Data Science with R [[:books:](https://github.com/bgsdanang/DQLab/blob/main/Belajar/R/Introduction%20to%20Data%20Science%20with%20R.R)]  [[:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABBGINRFBCMKR)]
   
   
   
