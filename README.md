@@ -5,7 +5,7 @@
 </p>
 
 <p align="justify">
-  DQLab adalah platform belajar data science online dan fleksibel sehingga tidak memerlukan waktu khusus untuk bertatap muka dengan mentor.  
+  DQLab adalah platform belajar data science online dan fleksibel sehingga tidak memerlukan waktu khusus untuk bertatap muka dengan mentor. Materi-materi yang digunakan DQLab ini sangat beragam dan tentu saja sangat menarik, seperti SQL, R studio, dan Python.
 </p>
 
 ## 📝 Modul R 
