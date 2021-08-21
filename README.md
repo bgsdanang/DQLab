@@ -4,6 +4,10 @@
   <a href='https://academy.dqlab.id/main/learn_more'><img src="Gambar/Logo DQLab2.png"></a>
 </p>
 
+<p align="justify">
+  DQLab adalah platform belajar data science online dan fleksibel sehingga tidak memerlukan waktu khusus untuk bertatap muka dengan mentor.  
+</p>
+
 ## 📝 Modul R 
 
 <details><summary>Daftar Modul</summary>
