@@ -22,7 +22,7 @@
 <details><summary>Daftar Modul</summary>
   
   + Python Fundamental for Data Science [[:books:](https://github.com/bgsdanang/DQLab/blob/main/Belajar/Python/Python%20Fundamental%20for%20Data%20Science/Python%20Fundamental%20for%20Data%20Science.ipynb)]  [[:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABINTP1VVETLV)]
-  
+  + Data Wrangling Python [[:books:](https://github.com/bgsdanang/DQLab/blob/main/Belajar/Python/Data%20Wrangling%20Python/Data%20Wrangling%20Python.ipynb)]  [[:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1APCMJD)]
   
 </details><br>
 
