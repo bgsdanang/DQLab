@@ -7,7 +7,11 @@
 ## 📝 Modul R 
 
 <details><summary>Daftar Modul</summary>
-+ 
+  
+  [[:books:](https://github.com/MyArist/DQLab/tree/master/Learn/R/Preliminary/Introduction%20to%20Data%20Science%20with%20R)]  [[:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABBGINRFBCMKR)] Introduction to Data Science with R
+  
+  
+  
 </details><br>
 
 ## 📝 Modul Python
