@@ -8,3 +8,14 @@
 
 <details><summary>Daftar Modul</summary>
 + 
+</details><br>
+
+## 📝 Modul Python
+<details><summary>Daftar Modul</summary>
++ 
+</details><br>
+
+## 📝 Modul SQL
+<details><summary>Daftar Modul</summary>
++ 
+</details>
