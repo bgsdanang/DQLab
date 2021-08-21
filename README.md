@@ -16,7 +16,8 @@
 
 ## 📝 Modul Python
 <details><summary>Daftar Modul</summary>
-  + Python Fundamental for Data Science [[:books:](https://github.com/bgsdanang/DQLab/blob/main/Belajar/R/Introduction%20to%20Data%20Science%20with%20R.R)]  [[:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABINTP1VVETLV)]
+  
+  + Python Fundamental for Data Science [[:books:](https://github.com/bgsdanang/DQLab/blob/main/Belajar/Python/Python%20Fundamental%20for%20Data%20Science/Python%20Fundamental%20for%20Data%20Science.ipynb)]  [[:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABINTP1VVETLV)]
   
   
 </details><br>
