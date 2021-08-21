@@ -1,7 +1,7 @@
 <br />
 
 <p align="center">
-  <a href='https://academy.dqlab.id/main/learn_more'><img src="Gambar/Logo DQLab.png"></a>
+  <a href='https://academy.dqlab.id/main/learn_more'><img src="Gambar/Logo DQLab2.png"></a>
 </p>
 
 ## 📝 Modul R 
