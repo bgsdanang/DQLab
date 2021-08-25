@@ -23,6 +23,7 @@
   
   
   
+  
 </details><br>
 
 ## :books: Modul Python <img src="Gambar/python4.png" height="45" align="right">
@@ -31,6 +32,8 @@
   + Python Fundamental for Data Science &nbsp; {[:card_index_dividers:](https://github.com/bgsdanang/DQLab/tree/main/Belajar/Python/Python%20Fundamental%20for%20Data%20Science) | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABINTP1VVETLV)}
   
   + Data Wrangling Python &nbsp; {[:card_index_dividers:](https://github.com/bgsdanang/DQLab/blob/main/Belajar/Python/Data%20Wrangling%20Python/Data%20Wrangling%20Python.ipynb) | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1APCMJD)}
+  
+  + Python for Data Professional Beginner - Part 1 &nbsp; {[:card_index_dividers:](https://github.com/bgsdanang/DQLab/tree/main/Belajar/Python/Python%20for%20Data%20Professional%20Beginner%20-%20Part%201) | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABINTP1EGMJAP)}
   
   
   
