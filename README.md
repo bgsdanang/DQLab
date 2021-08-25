@@ -12,10 +12,13 @@
 
 <details><summary>Daftar Modul</summary>
   
- + Introduction to Data Science with R [[:card_index_dividers:](https://github.com/bgsdanang/DQLab/blob/main/Belajar/R/Introduction%20to%20Data%20Science%20with%20R.R) |  [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABBGINRFBCMKR)]
- + R Fundamental for Data Science [[:card_index_dividers:](https://github.com/bgsdanang/DQLab/blob/main/Belajar/R/R%20Fundamental%20for%20Data%20Science.R)]  [[:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABINTR1EWHPQP)]
-  + Statistics Using R for Data Science [[:card_index_dividers:](https://github.com/bgsdanang/DQLab/tree/main/Belajar/R/Statistics%20using%20R%20for%20Data%20Science)]  [[:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABINTS1BVVBBN)]
-  + Data Preparation in Data Science using R [[:card_index_dividers:](https://github.com/bgsdanang/DQLab/tree/main/Belajar/R/Data%20Preparation%20in%20Data%20Science%20using%20R)]  [[:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABDTWR1LAJUSO)]
+ + Introduction to Data Science with R &nbsp; {[:card_index_dividers:](https://github.com/bgsdanang/DQLab/blob/main/Belajar/R/Introduction%20to%20Data%20Science%20with%20R.R) |  [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABBGINRFBCMKR)}
+  
+ + R Fundamental for Data Science &nbsp; {[:card_index_dividers:](https://github.com/bgsdanang/DQLab/blob/main/Belajar/R/R%20Fundamental%20for%20Data%20Science.R) |  [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABINTR1EWHPQP)}
+  
+  + Statistics Using R for Data Science &nbsp; {[:card_index_dividers:](https://github.com/bgsdanang/DQLab/tree/main/Belajar/R/Statistics%20using%20R%20for%20Data%20Science) |  [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABINTS1BVVBBN)}
+  
+  + Data Preparation in Data Science using R &nbsp; {[:card_index_dividers:](https://github.com/bgsdanang/DQLab/tree/main/Belajar/R/Data%20Preparation%20in%20Data%20Science%20using%20R)|  [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABDTWR1LAJUSO)}
   
   
   
@@ -25,8 +28,12 @@
 ## :books: Modul Python
 <details><summary>Daftar Modul</summary>
   
-  + Python Fundamental for Data Science [[:books:](https://github.com/bgsdanang/DQLab/tree/main/Belajar/Python/Python%20Fundamental%20for%20Data%20Science)]  [[:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABINTP1VVETLV)]
-  + Data Wrangling Python [[:books:](https://github.com/bgsdanang/DQLab/blob/main/Belajar/Python/Data%20Wrangling%20Python/Data%20Wrangling%20Python.ipynb)]  [[:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1APCMJD)]
+  + Python Fundamental for Data Science &nbsp; {[:card_index_dividers:](https://github.com/bgsdanang/DQLab/tree/main/Belajar/Python/Python%20Fundamental%20for%20Data%20Science) | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABINTP1VVETLV)}
+  
+  + Data Wrangling Python &nbsp; {[:card_index_dividers:](https://github.com/bgsdanang/DQLab/blob/main/Belajar/Python/Data%20Wrangling%20Python/Data%20Wrangling%20Python.ipynb) | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1APCMJD)}
+  
+  
+  
   
 </details><br>
 
