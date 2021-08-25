@@ -37,7 +37,7 @@
   
 </details><br>
 
-## :books: Modul SQL <img src="Gambar/sql2.png" height="45" align="right">
+## :books: Modul SQL <img src="Gambar/sql3.png" height="47" align="right">
 <details><summary>Daftar Modul</summary>
 + 
 </details>
