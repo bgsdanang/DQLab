@@ -42,5 +42,19 @@
 
 ## :books: Modul SQL <img src="Gambar/sql3.png" height="47" align="right">
 <details><summary>Daftar Modul</summary>
-+ 
+  
+  + Fundamental SQL Using SELECT Statement
+ &nbsp; {<!--[:card_index_dividers:](https://github.com/bgsdanang/DQLab/blob/main/Belajar/Python/Data%20Wrangling%20Python/Data%20Wrangling%20Python.ipynb) | -->[:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABSQLT1DPIQKC)}
+  
+  + Fundamental SQL Using FUNCTION and GROUP BY
+ &nbsp; {<!--[:card_index_dividers:](https://github.com/bgsdanang/DQLab/blob/main/Belajar/Python/Data%20Wrangling%20Python/Data%20Wrangling%20Python.ipynb) | -->[:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABSQLT2QBUOGN)}
+  
+  + Fundamental SQL Using INNER JOIN and UNION
+ &nbsp; {<!--[:card_index_dividers:](https://github.com/bgsdanang/DQLab/blob/main/Belajar/Python/Data%20Wrangling%20Python/Data%20Wrangling%20Python.ipynb) | -->[:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABSQLT2NDWGOM/NONTRACK)}
+  
+  + Fundamental SQL Group By and Having
+ &nbsp; {<!--[:card_index_dividers:](https://github.com/bgsdanang/DQLab/blob/main/Belajar/Python/Data%20Wrangling%20Python/Data%20Wrangling%20Python.ipynb) | -->[:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABFSQL3SRUJNO)}
+  
+  
+  
 </details>
