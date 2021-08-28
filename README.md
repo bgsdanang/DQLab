@@ -20,6 +20,8 @@
   
   + Data Preparation in Data Science using R &nbsp; {[:card_index_dividers:](https://github.com/bgsdanang/DQLab/tree/main/Belajar/R/Data%20Preparation%20in%20Data%20Science%20using%20R)|  [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABDTWR1LAJUSO)}
   
+   + Data Preparation in Data Science using R &nbsp; {[:card_index_dividers:](https://github.com/bgsdanang/DQLab/tree/main/Belajar/R/Fundamental%20Data%20Visualization%20using%20R)|  [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABINTR1UNCBNQ)}
+  
   
   
   
