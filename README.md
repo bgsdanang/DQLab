@@ -11,8 +11,8 @@
 ## :books: Modul R <img src="Gambar/logo R.png" height="47" align="right">
 
 <details><summary>Daftar Modul</summary>
-  <br>
   
+  ### Modul Persiapan dan Fundamental
   | | | |
   |----|----|----|
   | Introduction to Data Science with R | [:card_index_dividers:](https://github.com/bgsdanang/DQLab/blob/main/Belajar/R/Introduction%20to%20Data%20Science%20with%20R.R) | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABBGINRFBCMKR) |
