@@ -26,17 +26,18 @@
   
 </details><br>
 
+
+
 ## :books: Modul Python <img src="Gambar/python4.png" height="45" align="right">
 <details><summary>Daftar Modul</summary>
+  <br>
   
-  + Python Fundamental for Data Science &nbsp; {[:card_index_dividers:](https://github.com/bgsdanang/DQLab/tree/main/Belajar/Python/Python%20Fundamental%20for%20Data%20Science) | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABINTP1VVETLV)}
-  
-  + Data Wrangling Python &nbsp; {[:card_index_dividers:](https://github.com/bgsdanang/DQLab/blob/main/Belajar/Python/Data%20Wrangling%20Python/Data%20Wrangling%20Python.ipynb) | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1APCMJD)}
-  
-  + Python for Data Professional Beginner - Part 1 &nbsp; {[:card_index_dividers:](https://github.com/bgsdanang/DQLab/tree/main/Belajar/Python/Python%20for%20Data%20Professional%20Beginner%20-%20Part%201) | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABINTP1EGMJAP)}
-  
-  + Python for Data Professional Beginner - Part 2 &nbsp; {[:card_index_dividers:](https://github.com/bgsdanang/DQLab/tree/main/Belajar/Python/Python%20for%20Data%20Professional%20Beginner%20-%20Part%202) | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABINTP1OASCOH)}
-  
+  | | | |
+  |----|----|----|
+  | Python Fundamental for Data Science | [:card_index_dividers:](https://github.com/bgsdanang/DQLab/tree/main/Belajar/Python/Python%20Fundamental%20for%20Data%20Science) | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABINTP1VVETLV) |
+  | Data Wrangling Python | [:card_index_dividers:](https://github.com/bgsdanang/DQLab/blob/main/Belajar/Python/Data%20Wrangling%20Python/Data%20Wrangling%20Python.ipynb) | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1APCMJD) |
+  | Python for Data Professional Beginner - Part 1 | [:card_index_dividers:](https://github.com/bgsdanang/DQLab/tree/main/Belajar/Python/Python%20for%20Data%20Professional%20Beginner%20-%20Part%201) | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABINTP1EGMJAP) |
+  | Python for Data Professional Beginner - Part 2 | [:card_index_dividers:](https://github.com/bgsdanang/DQLab/tree/main/Belajar/Python/Python%20for%20Data%20Professional%20Beginner%20-%20Part%202) | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABINTP1OASCOH) |
   
   
   
@@ -44,19 +45,14 @@
 
 ## :books: Modul SQL <img src="Gambar/sql3.png" height="47" align="right">
 <details><summary>Daftar Modul</summary>
+  <br>
   
-  + Fundamental SQL Using SELECT Statement
- &nbsp; {<!--[:card_index_dividers:](https://github.com/bgsdanang/DQLab/blob/main/Belajar/Python/Data%20Wrangling%20Python/Data%20Wrangling%20Python.ipynb) | -->[:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABSQLT1DPIQKC)}
-  
-  + Fundamental SQL Using FUNCTION and GROUP BY
- &nbsp; {<!--[:card_index_dividers:](https://github.com/bgsdanang/DQLab/blob/main/Belajar/Python/Data%20Wrangling%20Python/Data%20Wrangling%20Python.ipynb) | -->[:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABSQLT2QBUOGN)}
-  
-  + Fundamental SQL Using INNER JOIN and UNION
- &nbsp; {<!--[:card_index_dividers:](https://github.com/bgsdanang/DQLab/blob/main/Belajar/Python/Data%20Wrangling%20Python/Data%20Wrangling%20Python.ipynb) | -->[:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABSQLT2NDWGOM/NONTRACK)}
-  
-  + Fundamental SQL Group By and Having
- &nbsp; {<!--[:card_index_dividers:](https://github.com/bgsdanang/DQLab/blob/main/Belajar/Python/Data%20Wrangling%20Python/Data%20Wrangling%20Python.ipynb) | -->[:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABFSQL3SRUJNO)}
-  
+  | | |
+  |----|----|
+  | Fundamental SQL Using SELECT Statement | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABSQLT1DPIQKC) |
+  | Fundamental SQL Using FUNCTION and GROUP BY | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABSQLT2QBUOGN) |
+  | Fundamental SQL Using INNER JOIN and UNION | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABSQLT2NDWGOM/NONTRACK)|
+  | Fundamental SQL Group By and Having | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABFSQL3SRUJNO) |
   
   
 </details>
