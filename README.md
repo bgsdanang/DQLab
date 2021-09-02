@@ -30,7 +30,7 @@
   + #### Modul Penerapan di Industri
   | | | |
   |----|----|----|
-  | Analisis Data COVID19 di Indonesia | [:card_index_dividers:](https://github.com/bgsdanang/DQLab/tree/main/Belajar/R/Statistics%20using%20R%20for%20Data%20Science) | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABAPL3%20IHGMCQ) |
+  | Analisis Data COVID19 di Indonesia | [:card_index_dividers:](https://github.com/bgsdanang/DQLab/blob/main/Belajar/R/Analisis%20Data%20COVID19%20di%20Indonesia.R) | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABAPL3%20IHGMCQ) |
   
   
 </details><br>
