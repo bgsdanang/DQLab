@@ -27,6 +27,10 @@
   | Fundamental Data Visualization using R | [:card_index_dividers:](https://github.com/bgsdanang/DQLab/tree/main/Belajar/R/Fundamental%20Data%20Visualization%20using%20R)|  [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABINTR1UNCBNQ) |
   
   
+  + #### Modul Penerapan di Industri
+  | | | |
+  |----|----|----|
+  | Analisis Data COVID19 di Indonesia | [:card_index_dividers:](https://github.com/bgsdanang/DQLab/tree/main/Belajar/R/Statistics%20using%20R%20for%20Data%20Science) | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABAPL3%20IHGMCQ) |
   
   
 </details><br>
