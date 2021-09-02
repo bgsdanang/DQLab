@@ -12,14 +12,14 @@
 
 <details><summary>Daftar Modul</summary>
   
-  ### Modul Persiapan
+  + #### Modul Persiapan
   | | | |
   |----|----|----|
   | Introduction to Data Science with R | [:card_index_dividers:](https://github.com/bgsdanang/DQLab/blob/main/Belajar/R/Introduction%20to%20Data%20Science%20with%20R.R) | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABBGINRFBCMKR) |
   | R Fundamental for Data Science | [:card_index_dividers:](https://github.com/bgsdanang/DQLab/blob/main/Belajar/R/R%20Fundamental%20for%20Data%20Science.R) | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABINTR1EWHPQP) |
   
   
-   ### Modul Fundamental
+  + #### Modul Fundamental
   | | | |
   |----|----|----|
   | Statistics Using R for Data Science | [:card_index_dividers:](https://github.com/bgsdanang/DQLab/tree/main/Belajar/R/Statistics%20using%20R%20for%20Data%20Science) |  [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABINTS1BVVBBN) |
@@ -36,13 +36,13 @@
 ## :books: Modul Python <img src="Gambar/python4.png" height="45" align="right">
 <details><summary>Daftar Modul</summary>
   
-  ### Modul Persiapan
+  + #### Modul Persiapan
   | | | |
   |----|----|----|
   | Python Fundamental for Data Science | [:card_index_dividers:](https://github.com/bgsdanang/DQLab/tree/main/Belajar/Python/Python%20Fundamental%20for%20Data%20Science) | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABINTP1VVETLV) |
   
   
-  ### Modul Fundamental
+  + #### Modul Fundamental
   | | | |
   |----|----|----|
   | Data Wrangling Python | [:card_index_dividers:](https://github.com/bgsdanang/DQLab/blob/main/Belajar/Python/Data%20Wrangling%20Python/Data%20Wrangling%20Python.ipynb) | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1APCMJD) |
@@ -56,7 +56,7 @@
 ## :books: Modul SQL <img src="Gambar/sql3.png" height="47" align="right">
 <details><summary>Daftar Modul</summary>
   
-  ### Modul Fundamental
+  + #### Modul Fundamental
   | | |
   |----|----|
   | Fundamental SQL Using SELECT Statement | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABSQLT1DPIQKC) |
