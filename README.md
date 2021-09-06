@@ -65,7 +65,7 @@
   |----|----|----|
   | Fundamental SQL Using SELECT Statement | [:card_index_dividers:](https://github.com/bgsdanang/DQLab/tree/main/Belajar/SQL/Fundamental%20SQL%20Using%20SELECT%20Statement) | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABSQLT1DPIQKC) |
   | Fundamental SQL Using FUNCTION and GROUP BY | [:card_index_dividers:](https://github.com/bgsdanang/DQLab/tree/main/Belajar/SQL/Fundamental%20SQL%20Using%20FUNCTION%20and%20GROUP%20BY) | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABSQLT2QBUOGN) |
-  | Fundamental SQL Using INNER JOIN and UNION | :card_index_dividers: | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABSQLT2NDWGOM/NONTRACK)|
+  | Fundamental SQL Using INNER JOIN and UNION | [:card_index_dividers:](https://github.com/bgsdanang/DQLab/tree/main/Belajar/SQL/Fundamental%20SQL%20Using%20INNER%20JOIN%20and%20UNION) | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABSQLT2NDWGOM/NONTRACK)|
   | Fundamental SQL Group By and Having | [:card_index_dividers:](https://github.com/bgsdanang/DQLab/tree/main/Belajar/SQL/Fundamental%20SQL%20Group%20By%20and%20Having) |[:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABFSQL3SRUJNO) |
   
   
