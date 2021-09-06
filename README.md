@@ -61,12 +61,12 @@
 <details><summary>Daftar Modul</summary>
   
   + #### Modul Fundamental
-  | | |
-  |----|----|
-  | Fundamental SQL Using SELECT Statement | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABSQLT1DPIQKC) |
-  | Fundamental SQL Using FUNCTION and GROUP BY | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABSQLT2QBUOGN) |
-  | Fundamental SQL Using INNER JOIN and UNION | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABSQLT2NDWGOM/NONTRACK)|
-  | Fundamental SQL Group By and Having | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABFSQL3SRUJNO) |
+  | | | |
+  |----|----|----|
+  | Fundamental SQL Using SELECT Statement | [:card_index_dividers:](https://github.com/bgsdanang/DQLab/tree/main/Belajar/SQL/Fundamental%20SQL%20Using%20SELECT%20Statement) | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABSQLT1DPIQKC) |
+  | Fundamental SQL Using FUNCTION and GROUP BY | :card_index_dividers: | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABSQLT2QBUOGN) |
+  | Fundamental SQL Using INNER JOIN and UNION | :card_index_dividers: | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABSQLT2NDWGOM/NONTRACK)|
+  | Fundamental SQL Group By and Having | :card_index_dividers: |[:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABFSQL3SRUJNO) |
   
   
 </details>
