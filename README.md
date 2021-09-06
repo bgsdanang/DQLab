@@ -52,6 +52,8 @@
   | Data Wrangling Python | [:card_index_dividers:](https://github.com/bgsdanang/DQLab/blob/main/Belajar/Python/Data%20Wrangling%20Python/Data%20Wrangling%20Python.ipynb) | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1APCMJD) |
   | Python for Data Professional Beginner - Part 1 | [:card_index_dividers:](https://github.com/bgsdanang/DQLab/tree/main/Belajar/Python/Python%20for%20Data%20Professional%20Beginner%20-%20Part%201) | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABINTP1EGMJAP) |
   | Python for Data Professional Beginner - Part 2 | [:card_index_dividers:](https://github.com/bgsdanang/DQLab/tree/main/Belajar/Python/Python%20for%20Data%20Professional%20Beginner%20-%20Part%202) | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABINTP1OASCOH) |
+  | Python for Data Professional Beginner - Part 3 | [:card_index_dividers:]() | [:bookmark_tabs:]() |
+  
   
   
   
