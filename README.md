@@ -53,7 +53,7 @@
   | Python for Data Professional Beginner - Part 1 | [:card_index_dividers:](https://github.com/bgsdanang/DQLab/tree/main/Belajar/Python/Python%20for%20Data%20Professional%20Beginner%20-%20Part%201) | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABINTP1EGMJAP) |
   | Python for Data Professional Beginner - Part 2 | [:card_index_dividers:](https://github.com/bgsdanang/DQLab/tree/main/Belajar/Python/Python%20for%20Data%20Professional%20Beginner%20-%20Part%202) | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABINTP1OASCOH) |
   | Python for Data Professional Beginner - Part 3 | [:card_index_dividers:](https://github.com/bgsdanang/DQLab/tree/main/Belajar/Python/Python%20for%20Data%20Professional%20Beginner%20-%20Part%203) | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABINTP1KTNHBA) |
-  | Exploratory Data Analysis with Python for Beginner | [:card_index_dividers:]() | [:bookmark_tabs:]() |
+  | Exploratory Data Analysis with Python for Beginner | [:card_index_dividers:](https://github.com/bgsdanang/DQLab/tree/main/Belajar/Python/Exploratory%20Data%20Analysis%20with%20Python%20for%20Beginner) | [:bookmark_tabs:]() |
   
   
   
