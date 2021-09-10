@@ -90,6 +90,8 @@
 
 <details><summary>Daftar Project</summary>
   
+  <br>
+  
   | | | |
   |----|----|----|
   
@@ -100,6 +102,8 @@
 ## :pencil: Project Python <img src="Gambar/python4.png" height="45" align="right">
 <details><summary>Daftar Project</summary>
   
+  <br>
+  
   | | | |
   |----|----|----|
   
@@ -109,6 +113,8 @@
 
 ## :pencil: Project SQL <img src="Gambar/sql3.png" height="47" align="right">
 <details><summary>Daftar Project</summary>
+  
+  <br>
   
   | | | |
   |----|----|----|
