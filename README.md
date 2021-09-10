@@ -90,6 +90,8 @@
 
 <details><summary>Daftar Project</summary>
   
+  | | | |
+  |----|----|----|
   
 
 </details><br>
@@ -98,6 +100,8 @@
 ## :pencil: Project Python <img src="Gambar/python4.png" height="45" align="right">
 <details><summary>Daftar Project</summary>
   
+  | | | |
+  |----|----|----|
   
   
 </details><br>
@@ -106,6 +110,11 @@
 ## :pencil: Project SQL <img src="Gambar/sql3.png" height="47" align="right">
 <details><summary>Daftar Project</summary>
   
+  | | | |
+  |----|----|----|
+  | Data Engineer Challenge with SQL | :card_index_dividers: | :bookmark_tabs: |
+  | Project: Fundamental SQL Group By and Having | :card_index_dividers: | :bookmark_tabs: |
+  | Project Data Analysis for B2B Retail: Customer Analytics Report | :card_index_dividers: | :bookmark_tabs: |
 
   
 </details>
