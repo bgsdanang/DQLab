@@ -82,11 +82,11 @@
 
 <h1 align = "center">Project</h1> 
 <p align="center">
-  <img src="Gambar/23014.jpg" width = 750px height = 400></a>
+  <img src="Gambar/23014.jpg"></a>
 </p>
 
 
-## :writing_hand: Project R <img src="Gambar/logo R.png" height="47" align="right">
+## :pencil: Project R <img src="Gambar/logo R.png" height="47" align="right">
 
 <details><summary>Daftar Project</summary>
   
@@ -103,7 +103,7 @@
 </details><br>
 
 
-## :writing_hand: Project SQL <img src="Gambar/sql3.png" height="47" align="right">
+## :pencil: Project SQL <img src="Gambar/sql3.png" height="47" align="right">
 <details><summary>Daftar Project</summary>
   
 
