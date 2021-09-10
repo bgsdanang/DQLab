@@ -82,11 +82,11 @@
 
 <h1 align = "center">Project</h1> 
 <p align="center">
-  <img src="Gambar/23014.jpg" width = 800px height = 450></a>
+  <img src="Gambar/23014.jpg" width = 750px height = 400></a>
 </p>
 
 
-## :books: Project R <img src="Gambar/logo R.png" height="47" align="right">
+## :writing_hand: Project R <img src="Gambar/logo R.png" height="47" align="right">
 
 <details><summary>Daftar Project</summary>
   
@@ -95,7 +95,7 @@
 </details><br>
 
 
-## :books: Project Python <img src="Gambar/python4.png" height="45" align="right">
+## :writing_hand: Project Python <img src="Gambar/python4.png" height="45" align="right">
 <details><summary>Daftar Project</summary>
   
   
@@ -103,7 +103,7 @@
 </details><br>
 
 
-## :books: Project SQL <img src="Gambar/sql3.png" height="47" align="right">
+## :writing_hand: Project SQL <img src="Gambar/sql3.png" height="47" align="right">
 <details><summary>Daftar Project</summary>
   
 
