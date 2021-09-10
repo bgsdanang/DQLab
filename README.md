@@ -118,9 +118,9 @@
   
   | | | |
   |----|----|----|
-  | Data Engineer Challenge with SQL | :card_index_dividers: | :bookmark_tabs: |
-  | Project: Fundamental SQL Group By and Having | :card_index_dividers: | :bookmark_tabs: |
-  | Project Data Analysis for B2B Retail: Customer Analytics Report | :card_index_dividers: | :bookmark_tabs: |
+  | Data Engineer Challenge with SQL | :card_index_dividers: | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABSQLTSRVEKFO) |
+  | Project: Fundamental SQL Group By and Having | :card_index_dividers: | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABPFSQ2WTDDGO/NONTRACK) |
+  | Project Data Analysis for B2B Retail: Customer Analytics Report | :card_index_dividers: | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABPRJ10MFESOF) |
 
   
 </details>
