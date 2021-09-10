@@ -95,7 +95,7 @@
 </details><br>
 
 
-## :writing_hand: Project Python <img src="Gambar/python4.png" height="45" align="right">
+## :pencil: Project Python <img src="Gambar/python4.png" height="45" align="right">
 <details><summary>Daftar Project</summary>
   
   
