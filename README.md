@@ -120,7 +120,7 @@
   |----|----|----|
   | Data Engineer Challenge with SQL | [:card_index_dividers:](https://github.com/bgsdanang/DQLab/tree/main/Project/SQL/Data%20Engineer%20Challenge%20with%20SQL) | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABSQLTSRVEKFO) |
   | Project: Fundamental SQL Group By and Having | [:card_index_dividers:](https://github.com/bgsdanang/DQLab/tree/main/Project/SQL/Project%20Fundamental%20SQL%20Group%20By%20and%20Having) | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABPFSQ2WTDDGO/NONTRACK) |
-  | Project Data Analysis for B2B Retail: Customer Analytics Report | :card_index_dividers: | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABPRJ10MFESOF) |
+  | Project Data Analysis for B2B Retail: Customer Analytics Report | [:card_index_dividers:](https://github.com/bgsdanang/DQLab/tree/main/Project/SQL/Project%20Data%20Analysis%20for%20B2B%20Retail%20Customer%20Analytics%20Report) | [:bookmark_tabs:](https://academy.dqlab.id/certificate/pdf/DQLABPRJ10MFESOF) |
 
   
 </details>
